@@ -26,9 +26,3 @@ python3 -m http.server 8080
 Then open `http://localhost:8080`.
 
 ## Deploy
-
-This repository includes a GitHub Pages workflow. After pushing to GitHub, enable Pages for the repository and select **GitHub Actions** as the source.
-
-## Design notes
-
-The visual direction follows the sam256.com vibe: black background, mono type, subtle teal glow, minimal controls, no unnecessary decoration.
